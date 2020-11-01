@@ -2,7 +2,7 @@
 
 OpenCore configuration for Ryzen hackintosh
 
-# Specification
+## Specification
 
 Type|Item
 :----|:----
@@ -13,3 +13,11 @@ Type|Item
 **Storage** | [Samsung 970 Evo Plus 1 TB M.2-2280 NVME Solid State Drive](https://uk.pcpartpicker.com/product/Zxw7YJ/samsung-970-evo-plus-1-tb-m2-2280-nvme-solid-state-drive-mz-v7s1t0bam)<br>[SanDisk SSD PLUS 240 GB 2.5" Solid State Drive](https://uk.pcpartpicker.com/product/BNGj4D/sandisk-internal-hard-drive-sdssda240gg25)<br>[Kingston SSDNow V300 Series 120 GB 2.5" Solid State Drive](https://uk.pcpartpicker.com/product/rtzv6h/kingston-internal-hard-drive-sv300s37a120g)<br>2x [Western Digital Caviar Blue 1 TB 3.5" 7200RPM Internal Hard Drive](https://uk.pcpartpicker.com/product/MwW9TW/western-digital-internal-hard-drive-wd10ezex)
 
 [PCPartPicker Part List](https://uk.pcpartpicker.com/list/9dp7TJ)
+
+## Config
+
+OpenCore version 0.6.2
+
+### Kexts
+
+- TODO
