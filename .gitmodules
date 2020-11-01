@@ -1,3 +1,6 @@
 [submodule "OpenCorePkg"]
 	path = OpenCorePkg
 	url = https://github.com/acidanthera/OpenCorePkg.git
+[submodule "AMD_Vanilla"]
+	path = AMD_Vanilla
+	url = https://github.com/AMD-OSX/AMD_Vanilla.git
