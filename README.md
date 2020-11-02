@@ -27,3 +27,4 @@ Name|Version|Description
 `WhateverGreen.kext` | [1.4.3](https://github.com/acidanthera/WhateverGreen/releases/tag/1.4.3) | Graphics patching.
 `AppleALC.kext` | [1.5.3](https://github.com/acidanthera/AppleALC/releases/tag/1.5.3) | AppleHDA patching to support on-board sound controller. This motherboard uses the Realtek ALC1220 codec. Using layout id 28.
 `SmallTreeIntel82576.kext` | [1.3.0](https://github.com/khronokernel/SmallTree-I211-AT-patch/releases/tag/1.3.0) | Intel GbE LAN.
+`AppleMCEReporterDisabler.kext` | - | Disable AppleMCERporter which causes kernel panics on AMD systems.
