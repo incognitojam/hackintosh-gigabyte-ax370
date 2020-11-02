@@ -259,13 +259,13 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>BundlePath</key>
-				<string>IntelMausi.kext</string>
+				<string>SmallTreeIntel82576.kext</string>
 				<key>Comment</key>
 				<string>Intel Ethernet LAN</string>
 				<key>Enabled</key>
 				<false/>
 				<key>ExecutablePath</key>
-				<string>Contents/MacOS/IntelMausi</string>
+				<string>Contents/MacOS/SmallTreeIntel82576</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
