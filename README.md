@@ -29,3 +29,9 @@ Name|Version|Description
 `SmallTreeIntel82576.kext` | [1.3.0](https://github.com/khronokernel/SmallTree-I211-AT-patch/releases/tag/1.3.0) | Intel GbE LAN.
 `AppleMCEReporterDisabler.kext` | - | Disable AppleMCERporter which causes kernel panics on AMD systems.
 `NVMeFix.kext` | [1.0.4](https://github.com/acidanthera/NVMeFix/releases/tag/1.0.4) | Fix power management and initialisation for non-Apple NVMe.
+
+### SSDT
+
+Name|Source|Description
+:----|:----|:----
+`SSDT-EC-USBX` | [Link](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/AcpiSamples/SSDT-EC-USBX.dsl) | Disables real EC and creates a fake EC. AMD also needs USBX.
