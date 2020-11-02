@@ -25,3 +25,4 @@ Name|Version|Description
 `Lilu.kext` | [1.4.8](https://github.com/acidanthera/Lilu/releases/tag/1.4.8) | Patches processes, required for many kexts to work.
 `VirtualSMC.kext` | [1.1.7](https://github.com/acidanthera/VirtualSMC/releases/tag/1.1.7) | Emulates SMC chip found on real macs. Not using any plugins.
 `AppleALC.kext` | [1.5.3](https://github.com/acidanthera/AppleALC/releases/tag/1.5.3) | AppleHDA patching to support on-board sound controller. This motherboard uses the Realtek ALC1220 codec. Using layout id 28.
+`WhateverGreen.kext` | [1.4.3](https://github.com/acidanthera/WhateverGreen/releases/tag/1.4.3) | Graphics patching.
